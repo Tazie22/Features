@@ -19,5 +19,4 @@ game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip",
 game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Premium",493489765)
 wait(1)
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(prefix.."char me tazie")
-wait(1)
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(prefix.."unchar me")
