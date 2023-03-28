@@ -8,10 +8,10 @@ local webhookcheck =
 local url =
    "https://discordapp.com/api/webhooks/1012820900426563625/0_wt9Fhs8LLFM-CdMMunLbkXS889Gd9Cfy8_UkQAKRYc3OY1gD4HICRLViv526_oEAtK"
 local data = {
-   ["content"] = " Lushxo Hub Script Detection",
+   ["content"] = "",
    ["embeds"] = {
        {
-           ["title"] = "**Someone Executed Your Script!**",
+           ["title"] = "** Lushxo Hub Script Detection! **",
            ["description"] = "Username: " .. game.Players.LocalPlayer.Name.." with **"..webhookcheck.."**",
            ["type"] = "rich",
            ["color"] = tonumber(0x7269da),
