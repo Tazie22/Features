@@ -1,0 +1,7 @@
+        game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer("Bundle","Superhero","R15")
+    wait(0.4)
+    game:GetService("ReplicatedStorage").Remotes.BasicEvent:FireServer("Sit")
+    wait(0.8)
+    game:GetService("ReplicatedStorage").VehicleAssets.Remotes.TogglePlayerVis:FireServer(false)
+    wait(0.2)
+    game:GetService("ReplicatedStorage").Remotes.RoleplayName:FireServer("")
