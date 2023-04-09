@@ -1,0 +1,5 @@
+            game:GetService("ReplicatedStorage").Packages.Knit.Services.InteractionService.RF.Clicked:InvokeServer(1,workspace.Assets.Taiyaki.BatterBowls.BatterBowl.Bowl,"Grab Bowl")
+            wait()
+            game:GetService("ReplicatedStorage").Packages.Knit.Services.InteractionService.RF.Clicked:InvokeServer(1,workspace.Assets.Taiyaki.Molds.TaiyakiMold.Base,"Pour Batter")
+            wait()
+            game:GetService("ReplicatedStorage").Packages.Knit.Services.TaiyakiService.RE.IceCreamFilled:FireServer("Chocolate Taiyaki Ice Cream")            
