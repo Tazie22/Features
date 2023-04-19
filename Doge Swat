@@ -1,4 +1,4 @@
-game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer("Reset")
+game:GetService("ReplicatedStorage").Remotes.BasicFunction:InvokeServer("ResetOutfit")
 wait(0.4)
 game:GetService("ReplicatedStorage").Remotes.BasicFunction:InvokeServer("RemoveHats")
 wait(0.2)
