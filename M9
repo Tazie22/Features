@@ -1,0 +1,5 @@
+--M9
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(822.7814331054688, 100.79798889160156, 2249.0263671875)
+for i = 1,5 do
+workspace.Remote.ItemHandler:InvokeServer(workspace.Prison_ITEMS.giver.M9.ITEMPICKUP)
+end
