@@ -1,5 +1,5 @@
 --AK-47
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-936.7484741210938, 96.55575561523438, 2056.27099609375)
 for i = 1,5 do
 workspace.Remote.ItemHandler:InvokeServer(workspace.Prison_ITEMS.giver["AK-47"].ITEMPICKUP)
 end
