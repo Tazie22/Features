@@ -1,0 +1,5 @@
+--AK-47
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new()
+for i = 1,5 do
+workspace.Remote.ItemHandler:InvokeServer(workspace.Prison_ITEMS.giver["AK-47"].ITEMPICKUP)
+end
