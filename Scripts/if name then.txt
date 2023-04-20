@@ -1,0 +1,5 @@
+game.Players.PlayerAdded:Connect(function(player)
+    if player.Name == "Your name" then
+           print"oh shit its again me"
+        end
+end)
