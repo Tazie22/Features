@@ -1,2 +1,0 @@
-game:GetService("ReplicatedStorage").Packages.Knit.Services.FridgeService.RE.FridgeItemSelected:FireServer(workspace.Assets.Cooking.Fridges.Fridge.Interaction,workspace.Assets.Cooking.Fridges.Fridge)
-                game:GetService("ReplicatedStorage").Packages.Knit.Services.FridgeService.RE.TakeDrink:FireServer(workspace.Assets.Cooking.Fridges.Fridge,"Honeydew Boba Tea")                
