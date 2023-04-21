@@ -1,6 +1,0 @@
---Armor
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(851.1088256835938, 101.44046783447266, 2249.4736328125)
-for i = 1,5 do
-workspace.Remote.ItemHandler:InvokeServer(workspace.Prison_ITEMS.clothes["Riot Police"].ITEMPICKUP)
-workspace.Remote.ItemHandler:InvokeServer(workspace.Prison_ITEMS.hats["Riot helmet"].hat)
-end
