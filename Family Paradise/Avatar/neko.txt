@@ -1,0 +1,8 @@
+game:GetService("ReplicatedStorage").Remotes.BasicFunction:InvokeServer("RemoveHats")
+game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Hats",170892848)
+game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Hats",1374269)
+game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Hats",5945436918)
+game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("UnEquip","Shirts",1609518535)
+game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Pants",2726507282)
+game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Faces",4645952767)
+game:GetService("ReplicatedStorage").Remotes.RoleplayName:FireServer("Neko")
