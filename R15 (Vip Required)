@@ -1,2 +1,0 @@
-        game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(prefix.."r15 me".."")
-        game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(prefix.."unchar me".."")
