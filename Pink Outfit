@@ -1,8 +1,0 @@
-game:GetService("ReplicatedStorage").Remotes.BasicFunction:InvokeServer("RemoveHats")
-wait(0.4)
-game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Faces",26019070)
-game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Shirts",3015347830)
-game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Pants",2847024301)
-game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Hats",6005325038)
-game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Premium",315549204)
-game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Premium",334663683)
