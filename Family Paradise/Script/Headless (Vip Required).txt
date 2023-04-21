@@ -1,0 +1,4 @@
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(prefix.."bundle me 201 ".."")
+wait(00000.1)
+game:GetService("ReplicatedStorage").Remotes.BasicFunction:InvokeServer("ResetOutfit")
+game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer("ApplyColor",{["Left Leg"] = {Color3.new(1, 0.7522, 0.57961)},["Right Arm"] = {Color3.new(1, 0.7522, 0.57961)},["Head"] = {Color3.new(1, 0.7522, 0.57961)},["Torso"] = {Color3.new(1, 0.7522, 0.57961)},["Right Leg"] = {Color3.new(1, 0.7522, 0.57961)},["Left Arm"] = {Color3.new(1, 0.7522, 0.57961)}})

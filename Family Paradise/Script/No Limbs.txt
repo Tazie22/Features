@@ -1,0 +1,2 @@
+game.Players.LocalPlayer.Character.Humanoid.Sit = true
+game:GetService("ReplicatedStorage").VehicleAssets.Remotes.TogglePlayerVis:FireServer(false)
