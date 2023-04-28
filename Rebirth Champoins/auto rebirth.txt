@@ -1,3 +1,15 @@
+if game.Players.LocalPlayer.Upgrades.RebirthButtons.Value == 101 then
+    game:GetService("ReplicatedStorage").Events.Rebirth:FireServer(101)
+end
+if game.Players.LocalPlayer.Upgrades.RebirthButtons.Value == 100 then
+    game:GetService("ReplicatedStorage").Events.Rebirth:FireServer(100)
+end
+if game.Players.LocalPlayer.Upgrades.RebirthButtons.Value == 99 then
+    game:GetService("ReplicatedStorage").Events.Rebirth:FireServer(99)
+end
+if game.Players.LocalPlayer.Upgrades.RebirthButtons.Value == 98 then
+    game:GetService("ReplicatedStorage").Events.Rebirth:FireServer(98)
+end
 if game.Players.LocalPlayer.Upgrades.RebirthButtons.Value == 97 then
     game:GetService("ReplicatedStorage").Events.Rebirth:FireServer(97)
 end
