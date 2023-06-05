@@ -1,0 +1,20 @@
+--Wings v2
+--Made by Deleted User cb9k#2811
+--1
+game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Premium",136758613)
+--2
+game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Premium",192557913)
+--3
+game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Premium",493489765)
+--4 equiphats
+game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Hats",5063806496)
+--5 equip 
+game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Hats",335079187)
+--6 equip 
+game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Hats",4623085687)
+--7 equip 
+game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Hats",215719598)
+--8 equip 
+game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Hats",439944088)
+--9 equip
+game:GetService("ReplicatedStorage").Remotes.EquipFunction:InvokeServer("Equip","Hats",4622999183)
