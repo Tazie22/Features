@@ -1,0 +1,3 @@
+local LocalPlayers = game.Players.LocalPlayer
+
+LocalPlayers.PlayerGui.HDAdminGUIs.CmdBar.SearchFrame.Visible = true
