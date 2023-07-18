@@ -343,3 +343,7 @@ end
 if game.Players.LocalPlayer.Upgrades.RebirthButtons.Value == 1 then
     game:GetService("ReplicatedStorage").Events.Rebirth:FireServer(1)
 end
+
+if game.Players.LocalPlayer.Upgrades.RebirthButtons.Value == 0 then
+    game:GetService("ReplicatedStorage").Functions.Upgrade:InvokeServer("RebirthButtons")
+end
