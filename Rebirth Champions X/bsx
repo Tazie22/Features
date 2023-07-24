@@ -1,0 +1,71 @@
+   --{{ Sand -- Needs Sand Portal Open
+local Meow = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame 
+local Float = Instance.new("Part")
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Sand["1"].main.CFrame
+Float.Parent = game.Workspace
+Float.Size = Vector3.new(5,1,5)
+Float.Anchored = true
+Float.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0, -3, 0)
+wait(0.3)
+fireproximityprompt(game:GetService("Workspace").Scripts.Amulets.Collect.Sand["1"].ProximityPrompt, 1, true)
+wait(0.3)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Sand["2"].main.CFrame
+Float.Parent = game.Workspace
+Float.Size = Vector3.new(5,1,5)
+Float.Anchored = true
+Float.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0, -3, 0)
+wait(0.3)
+fireproximityprompt(game:GetService("Workspace").Scripts.Amulets.Collect.Sand["2"].ProximityPrompt, 1, true)
+wait(0.3)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Sand["3"].main.CFrame
+Float.Parent = game.Workspace
+Float.Size = Vector3.new(5,1,5)
+Float.Anchored = true
+Float.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0, -3, 0)
+wait(0.3)
+fireproximityprompt(game:GetService("Workspace").Scripts.Amulets.Collect.Sand["3"].ProximityPrompt, 1, true)
+wait(0.3)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Sand["4"].main.CFrame
+Float.Parent = game.Workspace
+Float.Size = Vector3.new(5,1,5)
+Float.Anchored = true
+Float.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0, -3, 0)
+wait(0.3)
+fireproximityprompt(game:GetService("Workspace").Scripts.Amulets.Collect.Sand["4"].ProximityPrompt, 1, true)
+wait(0.3)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Sand["5"].main.CFrame
+Float.Parent = game.Workspace
+Float.Size = Vector3.new(5,1,5)
+Float.Anchored = true
+Float.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0, -3, 0)
+wait(0.3)
+fireproximityprompt(game:GetService("Workspace").Scripts.Amulets.Collect.Sand["5"].ProximityPrompt, 1, true)
+wait(0.3)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Sand["6"].main.CFrame
+Float.Parent = game.Workspace
+Float.Size = Vector3.new(5,1,5)
+Float.Anchored = true
+Float.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0, -3, 0)
+wait(0.3)
+fireproximityprompt(game:GetService("Workspace").Scripts.Amulets.Collect.Sand["6"].ProximityPrompt, 1, true)
+wait(0.3)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Sand["7"].main.CFrame
+Float.Parent = game.Workspace
+Float.Size = Vector3.new(5,1,5)
+Float.Anchored = true
+Float.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0, -3, 0)
+wait(0.3)
+fireproximityprompt(game:GetService("Workspace").Scripts.Amulets.Collect.Sand["7"].ProximityPrompt, 1, true)
+wait(0.3)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Sand["8"].main.CFrame
+Float.Parent = game.Workspace
+Float.Size = Vector3.new(5,1,5)
+Float.Anchored = true
+Float.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0, -3, 0)
+wait(0.3)
+fireproximityprompt(game:GetService("Workspace").Scripts.Amulets.Collect.Sand["8"].ProximityPrompt, 1, true)
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = Meow
+wait(0.4)
+game:GetService("ReplicatedStorage").Events.CraftAmulet:FireServer("Sand")
