@@ -5,11 +5,11 @@ game:GetService("Workspace").Scripts.Amulets.Collect.Forest["1"].main.CanCollide
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["1"]:GetChildren()[3].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["1"]:GetChildren()[2].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["1"]:GetChildren()[4].CanCollide = false
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Forest["1"].main.CFrame
 Float.Parent = game.Workspace
 Float.Size = Vector3.new(5,1,5)
 Float.Anchored = true
 Float.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0, -3, 0)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Forest["1"].main.CFrame
 wait(0.3)
 fireproximityprompt(game:GetService("Workspace").Scripts.Amulets.Collect.Forest["1"].ProximityPrompt, 1, true)
 wait(0.3)
@@ -17,11 +17,11 @@ game:GetService("Workspace").Scripts.Amulets.Collect.Forest["2"].main.CanCollide
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["2"]:GetChildren()[3].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["2"]:GetChildren()[2].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["2"]:GetChildren()[4].CanCollide = false
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Forest["2"].main.CFrame
 Float.Parent = game.Workspace
 Float.Size = Vector3.new(5,1,5)
 Float.Anchored = true
 Float.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0, -3, 0)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Forest["2"].main.CFrame
 wait(0.3)
 fireproximityprompt(game:GetService("Workspace").Scripts.Amulets.Collect.Forest["2"].ProximityPrompt, 1, true)
 wait(0.3)
@@ -29,11 +29,11 @@ game:GetService("Workspace").Scripts.Amulets.Collect.Forest["3"].main.CanCollide
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["3"]:GetChildren()[3].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["3"]:GetChildren()[2].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["3"]:GetChildren()[4].CanCollide = false
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Forest["3"].main.CFrame
 Float.Parent = game.Workspace
 Float.Size = Vector3.new(5,1,5)
 Float.Anchored = true
 Float.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0, -3, 0)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Forest["3"].main.CFrame
 wait(0.3)
 fireproximityprompt(game:GetService("Workspace").Scripts.Amulets.Collect.Forest["3"].ProximityPrompt, 1, true)
 wait(0.3)
@@ -41,11 +41,11 @@ game:GetService("Workspace").Scripts.Amulets.Collect.Forest["4"].main.CanCollide
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["4"]:GetChildren()[3].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["4"]:GetChildren()[2].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["4"]:GetChildren()[4].CanCollide = false
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Forest["4"].main.CFrame
 Float.Parent = game.Workspace
 Float.Size = Vector3.new(5,1,5)
 Float.Anchored = true
 Float.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0, -3, 0)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Forest["4"].main.CFrame
 wait(0.3)
 fireproximityprompt(game:GetService("Workspace").Scripts.Amulets.Collect.Forest["4"].ProximityPrompt, 1, true)
 wait(0.3)
@@ -53,11 +53,11 @@ game:GetService("Workspace").Scripts.Amulets.Collect.Forest["5"].main.CanCollide
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["5"]:GetChildren()[3].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["5"]:GetChildren()[2].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["5"]:GetChildren()[4].CanCollide = false
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Forest["5"].main.CFrame
 Float.Parent = game.Workspace
 Float.Size = Vector3.new(5,1,5)
 Float.Anchored = true
 Float.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0, -3, 0)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Forest["5"].main.CFrame
 wait(0.3)
 fireproximityprompt(game:GetService("Workspace").Scripts.Amulets.Collect.Forest["5"].ProximityPrompt, 1, true)
 wait(0.3)
@@ -65,11 +65,11 @@ game:GetService("Workspace").Scripts.Amulets.Collect.Forest["6"].main.CanCollide
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["6"]:GetChildren()[3].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["6"]:GetChildren()[2].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["6"]:GetChildren()[4].CanCollide = false
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Forest["6"].main.CFrame
 Float.Parent = game.Workspace
 Float.Size = Vector3.new(5,1,5)
 Float.Anchored = true
 Float.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0, -3, 0)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Forest["6"].main.CFrame
 wait(0.3)
 fireproximityprompt(game:GetService("Workspace").Scripts.Amulets.Collect.Forest["6"].ProximityPrompt, 1, true)
 wait(0.3)
@@ -77,11 +77,11 @@ game:GetService("Workspace").Scripts.Amulets.Collect.Forest["7"].main.CanCollide
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["7"]:GetChildren()[3].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["7"]:GetChildren()[2].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["7"]:GetChildren()[4].CanCollide = false
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Forest["7"].main.CFrame
 Float.Parent = game.Workspace
 Float.Size = Vector3.new(5,1,5)
 Float.Anchored = true
 Float.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0, -3, 0)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Forest["7"].main.CFrame
 wait(0.3)
 fireproximityprompt(game:GetService("Workspace").Scripts.Amulets.Collect.Forest["7"].ProximityPrompt, 1, true)
 wait(0.3)
@@ -89,11 +89,11 @@ game:GetService("Workspace").Scripts.Amulets.Collect.Forest["8"].main.CanCollide
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["8"]:GetChildren()[3].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["8"]:GetChildren()[2].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["8"]:GetChildren()[4].CanCollide = false
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Forest["8"].main.CFrame
 Float.Parent = game.Workspace
 Float.Size = Vector3.new(5,1,5)
 Float.Anchored = true
 Float.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0, -3, 0)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Scripts.Amulets.Collect.Forest["8"].main.CFrame
 wait(0.3)
 fireproximityprompt(game:GetService("Workspace").Scripts.Amulets.Collect.Forest["8"].ProximityPrompt, 1, true)
 wait(0.3)
