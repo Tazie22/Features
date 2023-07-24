@@ -1,10 +1,10 @@
 --{{ Forest -- Needs Forest Portal Open
 local Meow = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame 
+local Float = Instance.new("Part")
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["1"].main.CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["1"]:GetChildren()[3].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["1"]:GetChildren()[2].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["1"]:GetChildren()[4].CanCollide = false
-local Float = Instance.new("Part")
 Float.Parent = game.Workspace
 Float.Size = Vector3.new(5,1,5)
 Float.Anchored = true
@@ -17,7 +17,6 @@ game:GetService("Workspace").Scripts.Amulets.Collect.Forest["2"].main.CanCollide
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["2"]:GetChildren()[3].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["2"]:GetChildren()[2].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["2"]:GetChildren()[4].CanCollide = false
-local Float = Instance.new("Part")
 Float.Parent = game.Workspace
 Float.Size = Vector3.new(5,1,5)
 Float.Anchored = true
@@ -30,7 +29,6 @@ game:GetService("Workspace").Scripts.Amulets.Collect.Forest["3"].main.CanCollide
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["3"]:GetChildren()[3].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["3"]:GetChildren()[2].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["3"]:GetChildren()[4].CanCollide = false
-local Float = Instance.new("Part")
 Float.Parent = game.Workspace
 Float.Size = Vector3.new(5,1,5)
 Float.Anchored = true
@@ -43,7 +41,6 @@ game:GetService("Workspace").Scripts.Amulets.Collect.Forest["4"].main.CanCollide
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["4"]:GetChildren()[3].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["4"]:GetChildren()[2].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["4"]:GetChildren()[4].CanCollide = false
-local Float = Instance.new("Part")
 Float.Parent = game.Workspace
 Float.Size = Vector3.new(5,1,5)
 Float.Anchored = true
@@ -56,7 +53,6 @@ game:GetService("Workspace").Scripts.Amulets.Collect.Forest["5"].main.CanCollide
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["5"]:GetChildren()[3].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["5"]:GetChildren()[2].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["5"]:GetChildren()[4].CanCollide = false
-local Float = Instance.new("Part")
 Float.Parent = game.Workspace
 Float.Size = Vector3.new(5,1,5)
 Float.Anchored = true
@@ -69,7 +65,6 @@ game:GetService("Workspace").Scripts.Amulets.Collect.Forest["6"].main.CanCollide
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["6"]:GetChildren()[3].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["6"]:GetChildren()[2].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["6"]:GetChildren()[4].CanCollide = false
-local Float = Instance.new("Part")
 Float.Parent = game.Workspace
 Float.Size = Vector3.new(5,1,5)
 Float.Anchored = true
@@ -82,7 +77,6 @@ game:GetService("Workspace").Scripts.Amulets.Collect.Forest["7"].main.CanCollide
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["7"]:GetChildren()[3].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["7"]:GetChildren()[2].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["7"]:GetChildren()[4].CanCollide = false
-local Float = Instance.new("Part")
 Float.Parent = game.Workspace
 Float.Size = Vector3.new(5,1,5)
 Float.Anchored = true
@@ -95,7 +89,6 @@ game:GetService("Workspace").Scripts.Amulets.Collect.Forest["8"].main.CanCollide
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["8"]:GetChildren()[3].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["8"]:GetChildren()[2].CanCollide = false
 game:GetService("Workspace").Scripts.Amulets.Collect.Forest["8"]:GetChildren()[4].CanCollide = false
-local Float = Instance.new("Part")
 Float.Parent = game.Workspace
 Float.Size = Vector3.new(5,1,5)
 Float.Anchored = true
